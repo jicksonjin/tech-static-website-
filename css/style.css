@@ -133,7 +133,7 @@ ul.nav.navbar-nav li a {
 }
 ul.nav.navbar-nav li a:hover, .navbar-default .navbar-nav > li > a:focus {
 	  
-    color: rgb(3, 3, 3);
+     color: rgb(171 26 26);
 		transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
