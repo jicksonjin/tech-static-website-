@@ -121,7 +121,7 @@ div#navbar {
 }
 ul.nav.navbar-nav li a {
     font-size:18px;
-    color: rgb(230 224 224);
+        color: rgb(0 0 0);
 	border-bottom: 2px solid rgba(0, 0, 0, 0);
 	padding: 0px 0px;
 		    transition: 0.5s all;
