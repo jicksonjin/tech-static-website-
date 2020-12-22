@@ -225,6 +225,7 @@ html[xmlns] .slides {display: block;}
 @media screen and (max-width: 320px) {
 .flex-control-nav {
     left: 4.3em;
+    padding-left: 26px;
 }
 
 
